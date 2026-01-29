@@ -1,0 +1,7 @@
+{
+  "name": "SimpanDuit - Dompet Digital Cerdas",
+  "description": "Sebuah aplikasi manajemen keuangan dan tabungan digital modern yang dilengkapi dengan asisten AI untuk membantu Anda mengelola dana dengan bijak.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
